@@ -4,13 +4,13 @@ kind: Pod
 
 metadata:
 
-  name: quota-mem-cpu-demo
+  name: quota-mem-cpu-demo-2
 
 spec:
 
   containers:
 
-  - name: quota-mem-cpu-demo-ctr 
+  - name: quota-mem-cpu-demo-ctr-2
 
     image: nginx
 
